@@ -1,4 +1,4 @@
-# Projets personnels LLM 🚀
+# Projets personnels LLM 
 
 Ce dépôt contient mes expérimentations personnelles, notes et notebooks autour de l’intelligence artificielle générative (LLMs, agents, scraping, etc.).  
 Tout le code est écrit en Python via des notebooks Jupyter dans le cadre d’un apprentissage autonome de l’IA appliquée.
